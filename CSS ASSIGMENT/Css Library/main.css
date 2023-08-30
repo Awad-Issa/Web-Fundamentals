@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+      
+  /* Fixed width container class that will "auto-center" itself */
+  .container {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  #second button{
+    background-color: darkturquoise;
+    border: none;
+    border-radius: 80px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 40px;
+    margin: 20px;
+    color: white;
+}

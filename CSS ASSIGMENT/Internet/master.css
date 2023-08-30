@@ -1,0 +1,19 @@
+main{
+    width: max-content;
+}
+.top{
+    height: 80px;
+}
+.glblimg{
+    width: 50px;
+}
+.topone{
+    display: flex;
+}
+.span1{
+    color: #3e77a7;
+}
+.toptwo{
+    background-color: #3e77a7;
+    color: white;
+}

@@ -1,0 +1,11 @@
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 25px;
+}
+.topnav{}

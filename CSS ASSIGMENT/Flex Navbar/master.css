@@ -1,0 +1,33 @@
+.nav{
+    height: 57px;
+    background-color: rgba(45, 41, 41, 0.91);
+    display: flex;
+    justify-content:right
+    
+}
+.nav-title{
+    color: white;
+    position: relative;
+    top: -17px;
+    left: -800px;
+    font-family: 'Brush Script MT', cursive;
+}
+.nav-links{
+    color: silver;
+    position: relative;
+    top: 16px;
+    left: -16px;
+    font-family: 'Brush Script MT', cursive
+}
+#no{
+    color: silver;
+}
+.btn{
+    background-color: darkcyan;
+    color: white;
+    color: wsilver;
+    
+    border: 1px,2px,2px,1px;
+    border-color: black;
+    padding: 2px;
+}

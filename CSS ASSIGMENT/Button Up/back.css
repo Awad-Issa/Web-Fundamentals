@@ -1,0 +1,33 @@
+#first button{
+    background-color: white;
+    color: darkturquoise;
+    border-color: darkturquoise;
+    border-radius: 50px;
+    font-size: medium;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 20px;
+    font-style:oblique;
+}
+#second button{
+    background-color: darkturquoise;
+    border: none;
+    border-radius: 80px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 40px;
+    margin: 20px;
+    color: white;
+}
+#third button{
+    background-color: royalblue;
+    color: white;
+box-shadow: inset;
+ border-color: black;
+box-shadow:  4px 4px rgb(0, 0, 0);
+font-size: large;
+
+}
+
+
+
